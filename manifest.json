@@ -11,9 +11,9 @@
                 "checksum": "95cae6198346170ec56c025165962a56",
                 "changelog": "Initial release",
                 "targetAbi": "10.8.0.0",
-                "sourceUrl": "https://github.com/DirtyRacer1337/Jellyfin.Plugin.Stash/releases/download/1.0.0.1/Jellyfin.Plugin.Stash.zip",
+                "sourceUrl": "https://github.com/ANONNIEMOUSEE/Jellyfin.Plugin.Stash/releases/download/1.1.1.1/stash_1.0.0.1.zip",
                 "timestamp": "2023-04-05 15:38:50",
-                "version": "1.0.0.1"
+                "version": "1.1.1.1"
             }
         ]
     }
