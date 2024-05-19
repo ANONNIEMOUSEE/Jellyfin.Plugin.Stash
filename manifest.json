@@ -8,12 +8,12 @@
     "owner": "DirtyRacer1337",
     "versions": [
       {
-        "changelog": "",
+        "changelog": "Nightly build.\nAdd https://raw.githubusercontent.com/ANONNIEMOUSEE/Jellyfin.Plugin.Stash/manifest-release/manifest.json\nto your repositories to use.\n",
         "checksum": "957a0d0c10e62f7b652005b21d6b2d1c",
         "sourceUrl": "https://github.com/ANONNIEMOUSEE/Jellyfin.Plugin.Stash/releases/download/latest_jellyfin/stash_1.0.0.1.zip",
         "targetAbi": "10.8.0.0",
         "timestamp": "2024-05-19T09:17:27Z",
-        "version": "1.0.0.1"
+        "version": "0.0.0.9000"
       }
     ]
   }
