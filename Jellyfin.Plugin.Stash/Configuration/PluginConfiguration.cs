@@ -6,7 +6,7 @@ namespace Stash.Configuration
     {
         public PluginConfiguration()
         {
-            this.StashEndpoint = "http://localhost:9999";
+            this.StashEndpoint = "http://192.168.0.43:9999";
             this.StashAPIKey = string.Empty;
 
             this.AddDisambiguation = false;
