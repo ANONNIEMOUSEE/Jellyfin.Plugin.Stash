@@ -9,10 +9,10 @@
     "versions": [
       {
         "changelog": "",
-        "checksum": "eb21bdf6ce425c501ea3145d1b93077c",
-        "sourceUrl": "https://github.com/ANONNIEMOUSEE/Jellyfin.Plugin.Stash/releases/download/latest_emby/stash_1.0.0.1.zip",
+        "checksum": "f1e16a59e43ae5c64cdfdf61f3c0a1a4",
+        "sourceUrl": "https://github.com/ANONNIEMOUSEE/Jellyfin.Plugin.Stash/releases/download/latest_jellyfin/stash_1.0.0.1.zip",
         "targetAbi": "10.8.0.0",
-        "timestamp": "2024-05-19T08:37:37Z",
+        "timestamp": "2024-05-19T08:46:17Z",
         "version": "1.0.0.1"
       },
       {
@@ -22,14 +22,6 @@
         "targetAbi": "10.8.0.0",
         "timestamp": "2024-05-19T08:07:49Z",
         "version": "1.0.0.1"
-      },
-      {
-        "changelog": "Nightly build.\nAdd https://raw.githubusercontent.com/ANONNIEMOUSEE/Jellyfin.Plugin.Stash/manifest-release/manifest.json\nto your repositories to use.\n",
-        "checksum": "cddf9f9fdfe5eb2615bb3637004fd878",
-        "sourceUrl": "https://github.com/ANONNIEMOUSEE/Jellyfin.Plugin.Stash/releases/download/latest_jellyfin/stash_0.0.0.9000.zip",
-        "targetAbi": "10.8.0.0",
-        "timestamp": "2024-05-19T08:19:43Z",
-        "version": "0.0.0.9000"
       }
     ]
   }
