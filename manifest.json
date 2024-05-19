@@ -9,6 +9,14 @@
     "versions": [
       {
         "changelog": "",
+        "checksum": "eb21bdf6ce425c501ea3145d1b93077c",
+        "sourceUrl": "https://github.com/ANONNIEMOUSEE/Jellyfin.Plugin.Stash/releases/download/latest_emby/stash_1.0.0.1.zip",
+        "targetAbi": "10.8.0.0",
+        "timestamp": "2024-05-19T08:37:37Z",
+        "version": "1.0.0.1"
+      },
+      {
+        "changelog": "",
         "checksum": "4805c972f08c09eebc673092967669cc",
         "sourceUrl": "https://github.com/ANONNIEMOUSEE/Jellyfin.Plugin.Stash/releases/download/1.1.1.1/stash_1.0.0.1.zip",
         "targetAbi": "10.8.0.0",
