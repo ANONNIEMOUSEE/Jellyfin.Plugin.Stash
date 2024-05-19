@@ -25,7 +25,7 @@
       },
       {
         "changelog": "Nightly build.\nAdd https://raw.githubusercontent.com/ANONNIEMOUSEE/Jellyfin.Plugin.Stash/manifest-release/manifest.json\nto your repositories to use.\n",
-        "checksum": "f7bdc868d02c9b7f56257df2a008f46f",
+        "checksum": "cddf9f9fdfe5eb2615bb3637004fd878",
         "sourceUrl": "https://github.com/ANONNIEMOUSEE/Jellyfin.Plugin.Stash/releases/download/latest_jellyfin/stash_0.0.0.9000.zip",
         "targetAbi": "10.8.0.0",
         "timestamp": "2024-05-19T08:19:43Z",
